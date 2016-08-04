@@ -1,3 +1,4 @@
 baseurl = "http://www.doc.ma.edu.tum.de/kulla/blog/"
 languageCode = "de-de"
 title = "Kullas Blog"
+theme = "beg"
