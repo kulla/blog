@@ -1,4 +1,13 @@
 baseurl = "http://www.doc.ma.edu.tum.de/kulla/blog/"
 languageCode = "de-de"
 title = "Kullas Blog"
-theme = "beg"
+theme = "minimalist"
+paginate = 10
+
+[params]
+    site_author = "Stephan Kulla"
+    site_description = "Blog von Stephan Kulla"
+    avatar = "img/profile.png"
+    header_title = "Kullas Blog"
+    header_background = "img/header.jpg"
+    copyright = "Powered by [Hugo](http://gohugo.io)."
