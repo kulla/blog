@@ -10,4 +10,4 @@ paginate = 10
     avatar = "img/profile.png"
     header_title = "Kullas Blog"
     header_background = "img/header.jpg"
-    copyright = "Powered by [Hugo](http://gohugo.io)."
+    copyright = "Powered by [Hugo](http://gohugo.io). Theme [Minimalist](http://themes.gohugo.io/hugo-minimalist/) by [Digitalcraftsman](https://github.com/digitalcraftsman) and licensed under [Apache License 2.0](https://github.com/digitalcraftsman/hugo-minimalist-theme/blob/master/LICENSE.md). For the header image I used the picture [order from chaos](https://www.flickr.com/photos/29233640@N07/13466208953) by [Robert Couse-Baker](https://www.flickr.com/photos/29233640@N07/) which is licensed under [CC-BY 2.0](https://creativecommons.org/licenses/by/2.0/)."
