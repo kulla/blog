@@ -1,7 +1,7 @@
 +++
-date = "2016-08-05T14:50:46+02:00"
+date = "2016-08-16T16:00:03+02:00"
 tags = ["Lehre", "Übungsbetrieb"]
-draft= true
+draft= false
 title = "Videofeedback als Korrekturformat"
 toc = true
 
