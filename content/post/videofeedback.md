@@ -7,7 +7,7 @@ toc = true
 
 +++
 
-Für Studenten und Studentinnen mathematischer Vorlesungen ist das Lösen von Übungsblättern sehr wichtig. Viele für die Mathematik wichtige Fähigkeiten wie korrektes Argumentieren und Beweisen eignen sich die Studierenden nämlich während dem Lösen von Übungsaufgaben an. Insofern ist es wichtig, ihre Lösungen ausführlich und sorgfältig zu korrigieren. Hier hatte ich eine einfache Idee, wie eine solche elaborierte Korrektur zeiteffizient durchgeführt werden kann: *Ein individuelles Videofeedback*.
+Wie Hänze et al. (2013) bin auch ich der Meinung, dass für Studierende der Mathematik der Übungsbetrieb wichtig für ihr Studium ist. So argumentieren sie, dass die für Mathematik wichtigen Fähigkeiten in vorlesungsbegleitenden Übungsgruppen ausgebildet werden. Insofern ist es wichtig, ihre Lösungen ausführlich und sorgfältig zu korrigieren. Hier hatte ich eine einfache Idee, wie eine solche elaborierte Korrektur zeiteffizient durchgeführt werden kann: *Ein individuelles Videofeedback*.
 
 ## Kurze Beschreibung der Idee
 
@@ -45,3 +45,9 @@ Eine Herausforderung war die Zusendung der fertigen Videos an die Studentin bezi
 ## Fazit
 
 Das Videofeedback ist eine gute Möglichkeit, um ausführliche Korrekturen zeiteffizient zu erstellen. Sie bieten dem Korrektor viele Möglichkeiten dem Studierenden Feedback zu geben und ihm / ihr so zu helfen. Natürlich muss jeder für sich entscheiden, ob diese Art der Korrektur für ihn geeignet ist. Ich habe aber die Erfahrung gemacht, dass sich dieses Korrekturformat lohnt und werde es auch in zukünftigen Veranstaltungen einsetzen.
+
+## Literatur
+
+* Haenze, M., Fischer, E., Schreiber, S., Biehler, R., & Hochmuth, R. (2013). Innovationen in der Hochschullehre: empirische Überprüfung eines Studienprogramms zur Verbesserung von vorlesungsbegleitenden Übungsgruppen in der Mathematik. *Zeitschrift für Hochschulentwicklung*. Abgerufen von http://www.zfhe.at/index.php/zfhe/article/viewFile/571/565. Zitate:
+    * „Mathematik zählt zu den Fächern, in denen studienbegleitende Übungsgruppen eine hohe Relevanz für erfolgreiches Studieren haben.“ (S. 90)
+    * „Die Hochschullehre in Mathematik zeichnet sich traditionell dadurch aus, dass die mathematischen Fähigkeiten und fachspezifischen Lernstrategien in vorlesungsbegleitenden Übungsgruppen entwickelt werden sollen.“ (S. 91)
