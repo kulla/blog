@@ -11,6 +11,13 @@ Wie Hänze et al. (2013) bin auch ich der Meinung, dass für Mathematikstudentin
 
 ## Kurze Beschreibung der Idee
 
+<div style="margin: 0 auto; width: 90%;">
+<div style="width: 100%; padding-bottom: 56.25%; height: 0; position: relative; margin-bottom: 0.5em;">
+<iframe style="width: 100%; height:100%; position: absolute;" src="https://www.youtube.com/embed/pjEH-Wugqck" frameborder="0" allowfullscreen></iframe>
+</div>
+<i>Erklärung der Idee „Videofeedback als Korrekturformat“</i>
+</div>
+
 Dieses Korrekturformat habe ich im Sommersemester 2016 für die Veranstaltung [Einführung in die Mathematik 2](http://www.aleph1.info/?call=Puc&permalink=em2) zum ersten Mal erprobt. Hier habe ich für jede abgegebene Lösung ein Video produziert, die ich dem Studenten beziehungsweise der Studentin zugeschickt habe. Da mir das Videoformat vielfältige Möglichkeiten für Feedback bietet, konnte ich so in kurzer Zeit ausführliche Korrekturen erstellen. Mit geschätzt 15 Minuten durchschnittlicher Dauer pro Korrektur war ich schneller, als wenn ich die Korrektur klassisch in schriftlicher Form durchgeführt hätte – bei einer umfangreicheren Korrektur.
 
 ## Ablauf einer Korrektur mit Videofeedback
