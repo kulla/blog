@@ -53,6 +53,10 @@ Eine Herausforderung war die Zusendung der fertigen Videos an die Studentin bezi
 
 Das Videofeedback ist eine gute Möglichkeit, um ausführliche Korrekturen zeiteffizient zu erstellen. Sie bieten dem Korrektor viele Möglichkeiten dem Studierenden Feedback zu geben und ihm / ihr so zu helfen. Natürlich muss jeder für sich entscheiden, ob diese Art der Korrektur für ihn geeignet ist. Ich habe aber die Erfahrung gemacht, dass sich dieses Korrekturformat lohnt und werde es auch in zukünftigen Veranstaltungen einsetzen.
 
+## Hinweis
+
+Im Blog der Telekom-Stiftung findest du einen [Artikel zu dieser Feedbackmethode](http://www.mint-lehrerbildung.de/home/#!/Die-Korrektur-kommt-per-Video).
+
 ## Literatur
 
 * Haenze, M., Fischer, E., Schreiber, S., Biehler, R., & Hochmuth, R. (2013). Innovationen in der Hochschullehre: empirische Überprüfung eines Studienprogramms zur Verbesserung von vorlesungsbegleitenden Übungsgruppen in der Mathematik. *Zeitschrift für Hochschulentwicklung*. Abgerufen von http://www.zfhe.at/index.php/zfhe/article/viewFile/571/565 am 18.08.2016. Zitate:
