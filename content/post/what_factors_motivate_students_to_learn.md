@@ -47,7 +47,7 @@ Ambrose et al. describe three levers for lecturers to increase students' motivat
 
 Motivation only occurs when all three dimensions are fulfilled. Thus, the lecturer need to concentrate on each dimension. The influence of these levers are shown in the following figure:
 
-...
+{{<figure src="/kulla/blog/img/levers.png" title="Dimensions to enhance motivation">}}
 
 ## Strategies for enhancing the motivation
 
