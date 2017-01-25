@@ -1,6 +1,6 @@
 +++
 title = "Meine Lehrphilosophie"
-draft = true
+draft = false
 date = "2017-01-19T14:31:10+01:00"
 
 +++
