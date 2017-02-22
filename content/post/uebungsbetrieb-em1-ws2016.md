@@ -11,7 +11,9 @@ Der Übungsbetrieb ist eine wichtige Säule des Mathematikstudiums (Haenze et al
 
 ## Videofeedback
 
-Beim Videofeedback scannten wir die Lösungen der Studenten und Studentinnen ein und korrigierten diese am Computer. Mit Hilfe einer [Screencast](https://de.wikipedia.org/wiki/Screencast)-Software nahmen wir diese Korrektur auf. So bekam jeder Studierende ein individuelles Korrekturvideo. Da in einem Video viele Kommunikationenskanäle genutzt werden können – man kann erklären, zeichnen, das Skript aufrufen, Löungswege skizzieren und so weiter –  konnten wir dem Studenten / der Studentin zeiteffizient elaboriertes Feedback geben. Im Blogartikel [„Videofeedback als Korrekturformat“]({{<relref "videofeedback.md" >}}) habe ich diese Korrekturmethode ausführlich erklärt. Auch das folgende Video beschreibt diese Feedbackmöglichkeit:
+Beim Videofeedback scannten wir die Lösungen der Studenten und Studentinnen ein und korrigierten diese am Computer. Mit Hilfe einer [Screencast](https://de.wikipedia.org/wiki/Screencast)-Software nahmen wir diese Korrektur als Video auf, welches wir dem Studenten / der Studentin hinterher zuschickten. So bekam jeder Studierende ein individuelles Korrekturvideo.
+
+Da in einem Video viele Kommunikationenskanäle genutzt werden können – man kann erklären, zeichnen, das Skript aufrufen, Löungswege skizzieren und so weiter –  konnten wir dem Studierenden zeiteffizient elaboriertes Feedback geben. Im Blogartikel [„Videofeedback als Korrekturformat“]({{<relref "videofeedback.md" >}}) habe ich diese Korrekturmethode ausführlich erklärt. Auch im folgenden Video wird diese Methode beschrieben:
 
 <figure>
 {{< youtube pjEH-Wugqck >}}
@@ -20,17 +22,19 @@ Beim Videofeedback scannten wir die Lösungen der Studenten und Studentinnen ein
 
 ## Struktur des Übungsbetriebs
 
-Jede Woche erhielten die Studierenden am Mittwoch über E-Mail vier bis fünf Übungsaufgaben, die sie innerhalb einer Woche bearbeiten mussten. Die Aufgaben stammten aus dem [Vorlesungsskript von Oliver Deiser](http://www.aleph1.info/?call=Puc&permalink=em1). Die Lösungen der Studierenden wurden mit der oben beschriebenen Methode des Videofeedbacks korrigiert. Im Laufe des Semesters wurde dieses Korrekturformat kontinuierlich durch eine klassische Korrektur mit handschriftlichen Ergänzungen ersetzt. So gewöhnten sich die Studierenden an diese Art der Korrektur, welche in den meisten Vorlesungen des Mathematikstudiums eingesetzt wird.
+Jede Woche erhielten die Studierenden am Mittwoch über E-Mail vier bis fünf Übungsaufgaben, die sie innerhalb einer Woche bearbeiten mussten. Die Aufgaben stammten aus dem [Vorlesungsskript von Oliver Deiser](http://www.aleph1.info/?call=Puc&permalink=em1). Die Lösungen wurden mit der oben beschriebenen Methode des Videofeedbacks korrigiert.
+
+Im Laufe des Semesters wurde dieses Korrekturformat kontinuierlich durch eine klassische Korrektur mit handschriftlichen Ergänzungen ersetzt. Diese Korrekturform wird in den meisten Vorlesungen des Mathematikstudiums eingesetzt und so gewöhnten sich die Studierenden daran.
 
 In den ersten Wochen bekamen die Studierenden noch vor dem entgültigen Abgabetermin Videofeedback auf ihre Lösungen. Sie hatten danach die Möglichkeit, ihre Lösungen zu verbessern. So konnten die Studierenden das erhaltene Feedback direkt in eine bessere Lösung umsetzen. Gerade in den ersten Wochen des Studiums lohnt sich diese aufwändige Art der Korrektur, um die Qualität der Beweise zu verbessern.
 
-Um die Studierenden bei der Bearbeitung der Übungsaufgaben optimal zu betreuen, boten wir Unterstützung über die Messenger-Dienste [WhatsApp](https://de.wikipedia.org/wiki/WhatsApp) und [Telegram](https://de.wikipedia.org/wiki/Telegram_Messenger) an. Über diese Dienste konnten die Studierenden Fragen zur Vorlesung und zu den Übungsaufgaben stellen. Für ausführliche Erkärungen wurde das Frage- und Diskussionstutorium sowie bei Bedarf Sprechstunden genutzt.
+Um die Studierenden bei der Bearbeitung der Übungsaufgaben optimal zu betreuen, boten wir Unterstützung über die Messenger-Dienste [WhatsApp](https://de.wikipedia.org/wiki/WhatsApp) und [Telegram](https://de.wikipedia.org/wiki/Telegram_Messenger) an. Über diese Dienste konnten die Studierenden Fragen zur Vorlesung und zu den Übungsaufgaben stellen. Daneben boten wir ein Frage- und Diskussionstutorium an, in dem Fragen ausführlich für alle erklärt wurden. Auch konnten die Studierenden bei Bedarf Sprechstunden nutzen.
 
-Weiterhin wurde der Übungsbetrieb durch zusätzliche Lehr- und Hinweisvideos ergänzt. In diesen wurden häufige gemachte Fehler besprochen und neue Beweismethoden vorgeführt. Diese Videos waren über die Moodle-Lernplattform der TU München zugänglich. Über diese Plattform erhielten die Studierenden nach dem Abgabetermin auch vollständige Lösungen zu den Übungsaufgaben.
+Der Übungsbetrieb wurde außerdem durch zusätzliche Lehr- und Hinweisvideos ergänzt. In diesen wurden häufige gemachte Fehler besprochen und neue Beweismethoden vorgeführt. Diese Videos waren über die Moodle-Lernplattform der TU München zugänglich. Über diese Plattform erhielten die Studierenden nach dem Abgabetermin auch vollständige Lösungen zu den Übungsaufgaben.
 
 ## Einbettung des Übungsbetriebs
 
-Der in diesem Artikel beschriebene Übungsbetrieb ist eingebettet im Gesamtkonzept der Veranstaltung „Einführung in die Mathematik“. Er wird komplementiert durch die Vorlesung und dem dazugehörigen Online-Skript. Zusätzlich gab es ein Ergänzungstutorium, in dem der Vorlesungsstoff vertieft und der Bezug zur Schulmathematik herausgearbeitet wurde. Außerdem gab es wöchentlich ein Frage- und Diskussionstutorium, wo ausführliche Fragen zur Vorlesung und zu den Übungsaufgaben besprochen wurden. Das [Gesamtkonzept des Moduls „Einführung in die Mathematik“](http://www.aleph1.info/?call=Puc&permalink=cur) ist auf der Homepage von Oliver Deiser ausführlich beschrieben.
+Der in diesem Artikel beschriebene Übungsbetrieb ist eingebettet im Gesamtkonzept der Veranstaltung „Einführung in die Mathematik“. Er wird komplementiert durch die Vorlesung und dem dazugehörigen Online-Skript. Zusätzlich gab es ein Ergänzungstutorium, in dem der Vorlesungsstoff vertieft und der Bezug zur Schulmathematik herausgearbeitet wurde. Das [Gesamtkonzept des Moduls „Einführung in die Mathematik“](http://www.aleph1.info/?call=Puc&permalink=cur) ist auf der Homepage von Oliver Deiser ausführlich beschrieben.
 
 ## Literatur
 
