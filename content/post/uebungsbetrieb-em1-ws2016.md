@@ -7,7 +7,7 @@ tags = [
 
 +++
 
-Der Übungsbetrieb ist eine wichtige Säule des Mathematikstudiums (Haenze et al, 2013). Hier erwerben Studierende die Kompetenz des Beweisens und des Argumentierens. Auch wenden sie die in der Vorlesung vorgestellten Konzepte an und vertiefen diese. Elaboriertes Feedback ist dabei eines der wichtigsten Einflussfaktoren für Lernerfolg (Hattie, J. & Timperley, 2007). Für die Veranstaltung „Einführung in die Mathematik“ haben wir uns Gedanken gemacht, wie wir im Übungsbetrieb Studierende zeiteffizient durch elaboriertes Feedback unterstützen können. Hierzu nutzen wir individuelles Videofeedback. Dieser Artikel beschreibt dieses Korrekturformat sowie den Übungsbetrieb in der Veranstaltung „Einführung in die Mathematik 1“ im Wintersemester 2016 / 2017.
+Der Übungsbetrieb ist eine wichtige Säule des Mathematikstudiums (Haenze et al, 2013). Hier erwerben Studierende für die Mathematik wichtige Fähigkeiten wie die Kompetenz des Beweisens und des Argumentierens. Auch wenden sie die in der Vorlesung vorgestellten Konzepte an und vertiefen diese. Elaboriertes Feedback ist dabei eines der wichtigsten Einflussfaktoren für Lernerfolg (Hattie, J. & Timperley, 2007). Für die Veranstaltung „Einführung in die Mathematik“ haben wir uns Gedanken gemacht, wie wir im Übungsbetrieb Studierende zeiteffizient durch elaboriertes Feedback unterstützen können. Hierzu nutzen wir individuelles Videofeedback. Dieser Artikel beschreibt dieses Korrekturformat sowie den Übungsbetrieb in der Veranstaltung „Einführung in die Mathematik 1“ im Wintersemester 2016 / 2017.
 
 ## Videofeedback
 
