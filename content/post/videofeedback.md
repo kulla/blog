@@ -28,7 +28,7 @@ So konnte ich am Laptop die Lösungen handschriftlich korrigieren. Diese Korrekt
 
 ## Vorteile dieser Art der Korrektur
 
-Diese Korrekturform bietet mir viele Möglichkeiten, dem Studierenden durch mein Feedback zu helfen. Ich kann ihn direkt auf Fehler hinweisen oder ihm gewisse mathematische Konzepte erklären. Währenddessen kann ich kritische Passagen in seiner Lösung makieren, Notizen erstellen oder Zeichnungen anfertigen. Auch kann ich andere Dokumente (wie zum Beispiel das Vorlesungsskript) öffnen und diese in meiner Korrektur einbauen. Dies begründet auch, warum ein Videofeedback als Korrekturformat so zeiteffizient ist: Ausführliche Erklärungen können mündlich mit zusätzlichen handschriftlichen Notizen in kurzer Zeit vermittelt werden, während rein schriftlichen Erklärungen zeitaufwendiger sind.
+Diese Korrekturform bietet mir viele Möglichkeiten, dem Studierenden durch mein Feedback zu helfen. Ich kann ihn direkt auf Fehler hinweisen oder ihm gewisse mathematische Konzepte erklären. Währenddessen kann ich kritische Passagen in seiner Lösung markieren, Notizen erstellen oder Zeichnungen anfertigen. Auch kann ich andere Dokumente (wie zum Beispiel das Vorlesungsskript) öffnen und diese in meiner Korrektur einbauen. Dies begründet auch, warum ein Videofeedback als Korrekturformat so zeiteffizient ist: Ausführliche Erklärungen können mündlich mit zusätzlichen handschriftlichen Notizen in kurzer Zeit vermittelt werden, während rein schriftlichen Erklärungen zeitaufwendiger sind.
 
 ## Tipps und Tricks
 
