@@ -43,3 +43,7 @@ Der in diesem Artikel beschriebene Übungsbetrieb ist eingebettet im Gesamtkonze
     * „Die Hochschullehre in Mathematik zeichnet sich traditionell dadurch aus, dass die mathematischen Fähigkeiten und fachspezifischen Lernstrategien in vorlesungsbegleitenden Übungsgruppen entwickelt werden sollen.“ (S. 91)
 * Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of educational research, 77*(1), 81-112. Abgerufen von https://insightplatform-public.sharepoint.com/SiteAssets/feedback-and-reporting/characteristics-of-effective-feedback/power_feedback.pdf am 18.08.2016. Zitate:
     * „Feedback is among the most critical influences on student learning.” (Seite 102)
+
+## Lizenz
+
+Dieser Artikel steht unter der [CC0 1.0 Lizenz](https://creativecommons.org/publicdomain/zero/1.0/deed.en).
